@@ -1,0 +1,2 @@
+# Droidspec
+hardwere info
